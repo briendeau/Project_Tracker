@@ -5,8 +5,10 @@
  *
  * 1. Data Persistence: The application saves and loads task data (including
  * completion status) from a file, demonstrating competence in file I/O.
+ 
  * 2. Custom Styling: A custom CSS stylesheet is applied to the UI, highlighting
  * an understanding of modern, professional user interface design.
+ 
  * 3. Event-Driven Programming: The application uses signals and callbacks to
  * respond to user interactions, which is a fundamental concept in desktop
  * application development.
@@ -372,4 +374,5 @@ int main(int argc, char **argv) {
 
     return status;
 }
+
 
