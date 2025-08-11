@@ -1,6 +1,6 @@
 /*
  * This is a professional desktop application built with GTK, demonstrating
- * robust features suitable for a portfolio. The application is a Project Tracker
+ * robust features. The application is a Project Tracker
  * that showcases the following key skills:
  *
  * 1. Data Persistence: The application saves and loads task data (including
@@ -372,3 +372,4 @@ int main(int argc, char **argv) {
 
     return status;
 }
+
